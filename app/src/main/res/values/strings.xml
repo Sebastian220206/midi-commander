@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MIDI Commander Pro</string>
+    <string name="usb_permission_denied">USB permission denied. Please reconnect the device and grant permission.</string>
+    <string name="no_usb_host">This device does not support USB Host mode. A USB OTG adapter may be required.</string>
+    <string name="device_connected">Connected</string>
+    <string name="device_disconnected">No Device Connected</string>
+    <string name="edit_mode_on">EDIT MODE: ON</string>
+    <string name="edit_mode_off">EDIT MODE: OFF</string>
+    <string name="bank_label">Bank %s</string>
+    <string name="preset_saved">Preset saved successfully</string>
+    <string name="preset_loaded">Preset loaded</string>
+    <string name="midi_send_error">Failed to send MIDI. Retrying on port %d…</string>
+    <string name="long_press_hint">Long-press a control to configure it</string>
+</resources>

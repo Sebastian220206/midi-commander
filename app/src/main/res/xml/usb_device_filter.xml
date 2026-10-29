@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches all USB MIDI class-compliant devices (class 1 = Audio, subclass 3 = MIDI) -->
+    <usb-device class="1" subclass="3" />
+</resources>
